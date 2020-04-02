@@ -101,4 +101,4 @@ deploy:
   type: git
   repo: 
     github: git@github.com:rinka-sd/rinka-sd.github.io.git
-  branch: master
+  branch: hexo
