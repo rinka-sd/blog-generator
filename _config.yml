@@ -99,4 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:rinka-sd/rinka-sd.github.io.git
+  repo: 
+    github: git@github.com:rinka-sd/rinka-sd.github.io.git
+  branch: master
